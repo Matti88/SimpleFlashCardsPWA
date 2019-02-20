@@ -6,6 +6,10 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/index.html",
+   "serviceworker": {
+    "src": "ngsw-worker.js",
+    "scope": "/"
+  },
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
