@@ -6,10 +6,10 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/SimpleFlashCardsPWA/index.html",
-   "serviceworker": {
+     "serviceworker": {
     "src": "/ngsw-worker.js",
     "scope": "/"
-  },
+},
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
