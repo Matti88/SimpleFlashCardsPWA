@@ -5,8 +5,8 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://matti88.github.io/SimpleFlashCardsPWA/index.html",
-     "serviceworker": {
+  "start_url": "/SimpleFlashCardsPWA/index.html",
+       "serviceworker": {
     "src": "/ngsw-worker.js",
     "scope": "/"
 },
