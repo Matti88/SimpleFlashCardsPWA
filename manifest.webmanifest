@@ -7,7 +7,7 @@
   "scope": "/",
   "start_url": "/SimpleFlashCardsPWA/index.html",
        "serviceworker": {
-    "src": "/SimpleFlashCardsPWA/ngsw-worker.js",
+    "src": "/ngsw-worker.js",
     "scope": "/"
 },
   "icons": [
